@@ -110,7 +110,7 @@ Para ayudarme en la realización de esta aplicación usé la API que te proporci
 
 Añado un GIF con el resultado de la aplicación final con el sistema planetario.
 
-Al ir un poco lento de FPS para realizar el gif usé el programa [Gyazo](https://gyazo.com/)para que sea más visible el uso de la cámara. Se puede ver en el link a continuación
+Al ir un poco lento de FPS para realizar el gif usé el programa [Gyazo](https://gyazo.com/) para que sea más visible el uso de la cámara. Se puede ver en el link a continuación
 * [Vídeo de la ejecución final](https://gyazo.com/ae2ee7590f909880e4072de8f24d075c).
 
   * Resultado
